@@ -11,7 +11,7 @@ For this project, Titanic data was used to answer questions through simple data 
 Several machine learning algorithms were used to classify the GDP type of a country given its data. A prior data wrangling was performed and the data were processed using pandas. The efficiency of the models was evaluated using metrics like precision, recall, accuracy and $F_beta$ with cross validation. The process was done with Python's sklearn library.
 
 ## Beautiful Soup
-This project consisted of using the Python BeautifulSoup library to scrape data from the [Books To Scrape]website(https://books.toscrape.com/). 
+This project consisted of using the Python BeautifulSoup library to scrape data from the [Books To Scrape](https://books.toscrape.com/) website. 
 
 ## Introduction to Scrapy
 This project consisted of using the Python library, Scrapy, to extract country data from [The World Factbook](https://www.cia.gov/the-world-factbook/countries/).
