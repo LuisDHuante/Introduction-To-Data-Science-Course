@@ -1,4 +1,6 @@
 # Introduction To Data Science Course
+![portada](https://user-images.githubusercontent.com/69726163/182280643-6e9d35a3-90ef-4730-b5ac-2553e848c0a8.png)
+
 Projects, activities and exercises conducted for the Introduction to Data Science class.
 
 ## Affiliation
