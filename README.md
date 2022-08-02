@@ -18,5 +18,5 @@ Several machine learning algorithms were used to classify the GDP type of a coun
 This project consisted of using the Python BeautifulSoup library to scrape data from the [Books To Scrape](https://books.toscrape.com/) website. All the work is compiled in [this .ipynb notebook](https://github.com/LuisDHuante/Introduction-To-Data-Science-Course/blob/main/Proyecto3_WebScraping_LDHG2.ipynb)
 
 ## Introduction to Scrapy
-This project consisted of using the Python library, Scrapy, to extract country data from [The World Factbook](https://www.cia.gov/the-world-factbook/countries/). All the work is compiled in [this .ipynb notebook](https://github.com/LuisDHuante/Introduction-To-Data-Science-Course/blob/main/Proyecto3_WebScraping_LDHG2.ipynb)
+This project consisted of using the Python library, Scrapy, to extract country data from [The World Factbook](https://www.cia.gov/the-world-factbook/countries/). All the work is compiled in [this .ipynb notebook](https://github.com/LuisDHuante/Introduction-To-Data-Science-Course/blob/main/Proyecto4_Scrapy_LDHG.ipynb)
 
