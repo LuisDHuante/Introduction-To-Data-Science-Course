@@ -4,7 +4,7 @@
 Projects, activities and exercises conducted for the Introduction to Data Science class. All the material is in Spanish.
 
 ## Affiliation
-Final project for the Supervised Learning 2022-2 class, at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its Bs. in Data Science career plan. 
+Final project for the Introduction to Data Science 2022-2 class, at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its Bs. in Data Science career plan. 
 
 ## Analysis of Titanic data
 For this project, Titanic data was used to answer questions through simple data analysis. Pandas, Numpy, Seaborn and Matplotlib were used. All the work is compiled in [this .ipynb notebook.](https://github.com/LuisDHuante/Introduction-To-Data-Science-Course/blob/main/Proyecto1_Titanic.ipynb)
